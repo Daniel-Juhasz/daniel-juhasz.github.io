@@ -1,8 +1,13 @@
 html {
     scroll-behavior: smooth;
   }
+h2 {
+  margin-top: 50px;
+  margin-bottom: 8px;
+}
 
-  body {
+
+body {
    background-color: #e9ecef; 
     }
     
@@ -11,11 +16,11 @@ html {
   }
 
 .bg-edu{
-   background-color: #d3d3d3e8;   
+   background-color: #e9ecef;   
 }
 
 .bg-interests {
-  background-color: #bbbbbb;
+  background-color: #e9ecef;
 }
 
 .year {
@@ -56,6 +61,7 @@ html {
   width: 100px;
   border-radius: 25%;
   margin: 10px;
+  margin-bottom: 15px;
 
 }
 
@@ -66,6 +72,7 @@ html {
   -o-transform: scale(1.09);
   transform: scale(1.09);
   -webkit-transform: scale(1.09);
+  border-radius: 30%;
 
 }
 
